@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\File Name Changer\bin\Debug\netcoreapp3.1\File Name Changer.exe
+C:\Users\Owner\source\repos\File Name Changer\bin\Debug\netcoreapp3.1\File Name Changer.deps.json
+C:\Users\Owner\source\repos\File Name Changer\bin\Debug\netcoreapp3.1\File Name Changer.runtimeconfig.json
+C:\Users\Owner\source\repos\File Name Changer\bin\Debug\netcoreapp3.1\File Name Changer.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\File Name Changer\bin\Debug\netcoreapp3.1\File Name Changer.dll
+C:\Users\Owner\source\repos\File Name Changer\bin\Debug\netcoreapp3.1\File Name Changer.pdb
+C:\Users\Owner\source\repos\File Name Changer\obj\Debug\netcoreapp3.1\File Name Changer.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\File Name Changer\obj\Debug\netcoreapp3.1\File Name Changer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\File Name Changer\obj\Debug\netcoreapp3.1\File Name Changer.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\File Name Changer\obj\Debug\netcoreapp3.1\File Name Changer.AssemblyInfo.cs
+C:\Users\Owner\source\repos\File Name Changer\obj\Debug\netcoreapp3.1\File Name Changer.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\File Name Changer\obj\Debug\netcoreapp3.1\File Name Changer.dll
+C:\Users\Owner\source\repos\File Name Changer\obj\Debug\netcoreapp3.1\File Name Changer.pdb
+C:\Users\Owner\source\repos\File Name Changer\obj\Debug\netcoreapp3.1\File Name Changer.genruntimeconfig.cache
